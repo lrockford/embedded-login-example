@@ -28,6 +28,11 @@
   
   <body>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
+    <div>
+    <form action="https://lrock1-developer-edition.na75.force.com/auth/s/login/SelfRegister" method="post">
+      <input type="hidden" id="abc" name="123" value="abc123"/>      
+      <input type="submit" value="Submit"/>
+    </form>
     <header>
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
