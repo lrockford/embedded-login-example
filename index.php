@@ -28,11 +28,6 @@
   
   <body>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
-    <div>
-    <form action="https://lrock1-developer-edition.na75.force.com/auth/s/login/SelfRegister" method="post">
-      <input type="hidden" id="abc" name="123" value="abc123"/>      
-      <input type="submit" value="Submit"/>
-    </form>
     <header>
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
@@ -134,17 +129,17 @@
 
 
 	function onLogin(identity) {
-		console.log('onLogin');
+		
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 		var avatar = document.createElement('a'); 
 	 	avatar.href = "javascript:showIdentityOverlay();";
 		
-		console.log('setting images, etc');
+		
 		var img = document.createElement('img'); 
 	 	img.src = identity.photos.thumbnail; 
 		img.className = "sfid-avatar";
-    
+	
 		var username = document.createElement('span'); 
 		username.innerHTML = identity.username;
 		username.className = "sfid-avatar-name";
@@ -159,7 +154,6 @@
 		targetDiv.innerHTML = '';
 		targetDiv.appendChild(iddiv);	
 		
-    console.log('final set');
 		var aero = document.getElementById("aero_link");
 		aero.href = "/datasheets/AeroPress-Instr-English-Rev.-D2.pdf";
 		aero.innerHTML = 'Datasheet';
@@ -171,7 +165,7 @@
 		var chemex = document.getElementById("chemex_link");
 		chemex.href = "/datasheets/2014_ChemexBrewGuide.pdf";
 		chemex.innerHTML = 'Datasheet';
-		console.log('done');
+		
 	}
 	
 	
