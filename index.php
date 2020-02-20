@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>FIX, curated coffee components</title>
+<!--    <title>FIX, curated coffee components</title>
 
     <link href="reset.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,600" type="text/css" rel="stylesheet">
-    <link href="main.css" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">-->
 	
     <meta name="salesforce-community" content="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>">
     <meta name="salesforce-client-id" content="<?php echo getenv('SALESFORCE_CLIENT_ID');?>">
@@ -28,7 +28,7 @@
   
   <body>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
-    <header>
+    <!--<header>
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
         <div class="element-middle">
@@ -39,12 +39,12 @@
         <div class="element-right">
         </div>
       </div>
-    </header>
-    <section class="textured-section">
+    </header>-->
+    <!--<section class="textured-section">
       <h1>Curated Coffee Components</h1>
       
 
-      <ul class="products">
+      <ul class="products">-->
         <!--<li>
           <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
           <h3 class="product-name">AeroPress Coffee Maker</h3>
@@ -60,10 +60,10 @@
           <h3 class="product-name">Chemex Classic 6-cup Coffee Maker</h3>
           <div class="product-button"><a id="chemex_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
         </li>-->
-      </ul>
+      <!--</ul>
 
-    </section>
-    <section>
+    </section>-->
+    <!--<section>
 
       <h1>Our Menu</h1>
 
@@ -121,7 +121,7 @@
         </ul>
       </div>
 
-    </footer>
+    </footer>-->
 	
 
 	
