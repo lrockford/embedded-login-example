@@ -38,7 +38,7 @@ header {
   padding: 40px 20px 20px 20px;
   background-repeat: no-repeat;
   background-position: center left 58%;
-  background-image: url(images/071715_Heroku_9883-.jpg);
+  background-image: url(images/fresh.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -139,7 +139,7 @@ header .logo-text {
 
 .textured-section {
   background-color: rgb(161,109,59);
-  background-image: url(images/wood-grain.jpg);
+  background-image: url(images/lukas-blazek-EWDvHNNfUmQ-unsplash.jpg);
   background-position: left top;
 }
 .textured-section h1 {

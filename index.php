@@ -65,24 +65,24 @@
     </section>
     <section>
 
-      <h1>Complete Brewing Kits</h1>
+      <h1>Our Menu</h1>
 
       <ul class="kits">
         <li>
-          <img class="kit-image" src="images/kits/071715_Heroku_3338-Edit-.jpg" alt="">
-          <h3 class="kit-name">The Chemex Kit</h3>
+          <img class="kit-image" src="images/kits/breakfast.jpg" alt="">
+          <h3 class="kit-name">French Toast Breakfast</h3>
         </li>
         <li>
-          <img class="kit-image" src="images/kits/071715_Heroku_3353-Edit-.jpg" alt="">
-          <h3 class="kit-name">The Pour Over Kit</h3>
+          <img class="kit-image" src="images/kits/salad.jpg" alt="">
+          <h3 class="kit-name">Apple Walnut Salad</h3>
         </li>
         <li>
-          <img class="kit-image" src="images/kits/071715_Heroku_3346-.jpg" alt="">
-          <h3 class="kit-name">The Camper’s Kit</h3>
+          <img class="kit-image" src="images/kits/pizza.jpg" alt="">
+          <h3 class="kit-name">Familio's Famous Pizza</h3>
         </li>
         <li>
-          <img class="kit-image" src="images/kits/071715_Heroku_3376-Edit-.jpg" alt="">
-          <h3 class="kit-name">The French Press Kit</h3>
+          <img class="kit-image" src="images/kits/soup.jpg" alt="">
+          <h3 class="kit-name">Roasted Bell Pepper Soup</h3>
         </li>
         <li>
           <img class="kit-image" src="images/kits/071715_Heroku_3385-.jpg" alt="">
