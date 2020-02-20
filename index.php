@@ -32,7 +32,7 @@
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
         <div class="element-middle">
-          <img class="logo" src="images/fix-logotype.png" alt="Fix">
+          <img class="logo" src="images/mandys_kitchen_logo.png" alt="Mandy's">
           <br>
           <span class="logo-text">Fine Coffee Kits</span>
         </div>
