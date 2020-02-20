@@ -45,7 +45,7 @@
       
 
       <ul class="products">
-        <li>
+        <!--<li>
           <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
           <h3 class="product-name">AeroPress Coffee Maker</h3>
           <div class="product-button"><a id="aero_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
@@ -59,7 +59,7 @@
           <img class="product-image" src="images/products/071715_Heroku_3302.jpg" alt="">
           <h3 class="product-name">Chemex Classic 6-cup Coffee Maker</h3>
           <div class="product-button"><a id="chemex_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
-        </li>
+        </li>-->
       </ul>
 
     </section>

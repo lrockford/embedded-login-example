@@ -214,6 +214,7 @@ a.btn {
   flex-wrap: wrap;
   -webkit-justify-content: center;
   justify-content: center;
+  height:20%;
 }
 .products > * {
   /* border: 1px dashed red; */
