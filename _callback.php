@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+error_log("hello, this is a test!");
+?>
 <head>
     <meta name="salesforce-community" content="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>">
 	<meta name="salesforce-mode" content="<?php echo getenv('SALESFORCE_MODE');?>-callback">
